@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/readygreen/readygreen/master/green.png" alt="Green Image" width="150px">
+<img src="https://github.com/user-attachments/assets/8abdac6e-8ba7-42f7-b636-daeb014af756" alt="Green Image" width="150px">
 
 # 🚦 언제그린 🚦
 **삼성 청년 SW 아카데미 11기 특화 프로젝트 - 빅데이터 분산 우수상 🏆**
