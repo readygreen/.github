@@ -12,24 +12,21 @@
 
 </div>
 
-<div <div align="center">  
+<div>  
 
   <div style="flex: 1; margin-right: 20px;">
     <h2>📜 Contents</h2>
-      <a href="#-서비스-화면">서비스 화면</a> </br> 
-      <a href="#-주요-기능">주요 기능</a> </br> 
-      <a href="#%EF%B8%8F-개발-환경">개발 환경</a> </br> 
-      <a href="#-시스템-아키텍처">시스템 아키텍처</a> </br> 
-      <a href="#-기술-특이점">기술 특이점</a> </br> 
-      <a href="#-기획-및-설계-산출물">기획 및 설계 산출물</a> </br> 
-	<a href="#-팀원-소개">팀원 소개</a> </br> 
+      1. <a href="#-서비스-화면">서비스 화면</a> </br> 
+      2. <a href="#-주요-기능">주요 기능</a> </br> 
+      3. <a href="#%EF%B8%8F-개발-환경">개발 환경</a> </br> 
+      4. <a href="#-시스템-아키텍처">시스템 아키텍처</a> </br> 
+      5. <a href="#-기술-특이점">기술 특이점</a> </br> 
+      6. <a href="#-기획-및-설계-산출물">기획 및 설계 산출물</a> </br> 
+	7. <a href="#-팀원-소개">팀원 소개</a> </br> 
   </div>  
   </br>   
-  
 
-  <div style="width: 1px; background-color: black; margin: 0 20px;"></div>
-
-  <div <div align="center">  
+  <div>  
     <h2>🚶언제그린 개요🚶</h2></br>     
 	  
 보행자에게 신호등 잔여 시간을 제공함으로서 보행할 때의 편리함을 높여주며, </br>   
@@ -45,14 +42,13 @@
 </div>  
 
 </br>   
-
-<div align="center">  
 	
 # 📱 서비스 화면
 **`모바일`, `웨어러블 기기(갤럭시 워치)` 지원**
 </br>    
-</br>   
 
+<div align="center">    
+	
 ## 지도 화면 🗺️ </br>  
 
 | <img src="https://github.com/user-attachments/assets/27f88c23-d9ce-4299-af4e-5da3d800650b" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/ab57242c-fb50-4754-a209-fc20b93c8975" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/3d94ddd5-19f1-4cc9-940f-dea8f8f33338" style="width: 300px;"> |
@@ -260,13 +256,42 @@
 </div>
 <br/>
 
-
+<div>    
+	
 ## 💫 시스템 아키텍처
 
 <img src="https://github.com/user-attachments/assets/0132b0bc-10ed-4246-aa8e-cdba38da28d0" alt="시스템 아키텍처" width="80%">
 
+</div>  
 
 <br/>     
+
+<div>  
+	
+# 📂 기획 및 설계 산출물  
+	
+### [🎨 화면 설계서](https://www.figma.com/design/P73jaKuUZsdERNRuDRBdtm/%EC%96%B8%EC%A0%9C%EA%B7%B8%EB%A6%B0?node-id=301-1535&node-type=canvas&t=tXJLJwuCp1h2XQ3D-0)
+<br>
+
+### 📱 앱 
+<img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/화면설계서-앱.png" /><br>
+<br>
+
+### ⌚ 워치
+<img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/화면설계서-워치.png" /><br>
+
+</div>
+
+<br>
+<div align="center">
+
+---
+### [✨ ER Diagram](https://www.erdcloud.com/d/57wJHqjZPLPw7w2ve)
+
+<img width="100%" alt="erd" src="https://github.com/user-attachments/assets/9de9eeba-8fba-4930-a9a1-8b2b3bfc3844" ><br>
+
+</div>
+
 
 ## ✨ 기술 특이점
 - 신호등 대기 시간을 적용한 최적 경로 제공
@@ -287,28 +312,7 @@
 - 삼성웰렛과 연동
 
 <br/>   
-
-# 📂 기획 및 설계 산출물
-
-### [💭 기능 명세](https://obsidian-boar-5f3.notion.site/0de7338d07c045e584d3879cbac76a44?pvs=74)
-
-<img width="100%" alt="기능 명세" src="https://github.com/user-attachments/assets/4913b826-8ebe-49e1-81ae-76b7463548a2"><br>
-
-### [🎨 화면 설계서](https://www.figma.com/design/P73jaKuUZsdERNRuDRBdtm/%EC%96%B8%EC%A0%9C%EA%B7%B8%EB%A6%B0?node-id=301-1535&node-type=canvas&t=tXJLJwuCp1h2XQ3D-0)
-
-
-<img width="100%" alt="화면설계서" src="https://github.com/user-attachments/assets/1c31c32a-8187-42c8-8f9e-624bf4da41b3"><br>
-
-### [✨ ER Diagram](https://www.erdcloud.com/d/57wJHqjZPLPw7w2ve)
-
-<img width="100%" alt="erd" src="https://github.com/user-attachments/assets/9de9eeba-8fba-4930-a9a1-8b2b3bfc3844" ><br>
-
-<br/>   
-
-# ✨ Conventions 
-언제그린 팀원들의 원활한 `Gitlab`, `Jira` 사용을 위한 [✨컨벤션✨](https://obsidian-boar-5f3.notion.site/bfbb93c1ebbb412fa1b9bb03042f4ebc?pvs=74) 입니다 :)
-
-<br/>   
+ 
 
 ## 👥 팀원 소개
 
