@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8abdac6e-8ba7-42f7-b636-daeb014af756" alt="Green Image" width="150px">
+<img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/green.png" alt="Green Image" width="150px">
 
 # 🚦 언제그린 🚦
 **삼성 청년 SW 아카데미 11기 특화 프로젝트 - 빅데이터 분산 우수상 🏆**
@@ -11,34 +11,85 @@
 <br/>
 
 </div>
-<br> 
-<!--
-## 📜 Contents
- 1. [Overview](#-overview)
- 2. [서비스 화면](#-서비스-화면)
- 3. [주요 기능](#-주요-기능)
- 4. [개발 환경](#%EF%B8%8F-개발-환경)
- 5. [시스템 아키텍처](#-시스템-아키텍처)
- 6. [기술 특이점](#-기술-특이점)
- 7. [추후 고도화](#-추후-고도화)
- 8. [기획 및 설계 산출물](#-기획-및-설계-산출물)
- 9. [Conventions](#-conventions)
- 10. [팀원 소개](#-팀원-소개)
 
-<br/>   
---!>
-<br/>   
+<div <div align="center">  
 
-## 👀 서비스 화면
-### ✨ `모바일`, `웨어러블 기기(갤럭시 워치)` 지원
+  <div style="flex: 1; margin-right: 20px;">
+    <h2>📜 Contents</h2>
+      <a href="#-서비스-화면">서비스 화면</a> </br> 
+      <a href="#-주요-기능">주요 기능</a> </br> 
+      <a href="#%EF%B8%8F-개발-환경">개발 환경</a> </br> 
+      <a href="#-시스템-아키텍처">시스템 아키텍처</a> </br> 
+      <a href="#-기술-특이점">기술 특이점</a> </br> 
+      <a href="#-기획-및-설계-산출물">기획 및 설계 산출물</a> </br> 
+	<a href="#-팀원-소개">팀원 소개</a> </br> 
+  </div>  
+  </br>   
+  
+
+  <div style="width: 1px; background-color: black; margin: 0 20px;"></div>
+
+  <div <div align="center">  
+    <h2>🚶언제그린 개요🚶</h2></br>     
+	  
+보행자에게 신호등 잔여 시간을 제공함으로서 보행할 때의 편리함을 높여주며, </br>   
+	  
+현재 날씨, 오늘의 운세, 포인트과 같은 데일리 컨텐츠도 함께 제공함으로서 사용자가 앱을 더욱 자주 이용할 수 있도록 독려합니다.  </br>   
+  
+기존 자동차 중심의 네비게이션을 완전히 보행자 중심으로 제공하여 효율적인 길 안내를 제공합니다.  </br>   
+   
+보행자 신호 잔여 시간 및 변경 알림을 제공하고 </br>  사용자가 북마크한 장소를 가는 시간에 길 안내를 알림으로 제공함으로서 개인화된 서비스도 제공합니다.</br>   
+   
+  </div>
+
+</div>  
+
+</br>   
+
+<div align="center">  
+	
+# 📱 서비스 화면
+**`모바일`, `웨어러블 기기(갤럭시 워치)` 지원**
+</br>    
+</br>   
+
+## 지도 화면 🗺️ </br>  
+
+| <img src="https://github.com/user-attachments/assets/27f88c23-d9ce-4299-af4e-5da3d800650b" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/ab57242c-fb50-4754-a209-fc20b93c8975" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/3d94ddd5-19f1-4cc9-940f-dea8f8f33338" style="width: 300px;"> |
+|:--------:|:--------:|:--------:|
+|   **지도 메인 화면**  |   **장소 검색 화면**  |   **장소 추천 화면**  | 
+|   신호 잔여 시간 제공  |   주변 장소 검색 가능  |  주변 장소를 카테고리 별 제공  |  
+
+</br>   
+
+
+## 길 찾기🧭 </br>  
+
+|  <img src="https://github.com/user-attachments/assets/7c2ace1f-88cf-4cf7-aab2-57aac93754df" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/482aea7f-2f0c-47a6-8da9-92cc06314b93" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/1a570796-09a3-49db-8c70-776c76462702" style="width: 300px;"> | 
+|:--------:|:--------:|:--------:|
+|   **장소 클릭 화면**  |   **경고창**  |   **길 찾기 진행 중 화면**  |  
+|   장소에 대한 자세한 정보 제공  |  실제 상황과 다를 수 있음을 알림으로서 사용자의 안전을 지킬 수 있음  |   경로 설명을 통해 간편한 길 찾기 제공  | 
+ 
+</br>   
+
+
+## 메인화면📲 </br>  
+
+|  <img src="https://github.com/user-attachments/assets/a65581f6-8664-4e9d-a774-50d2a1647881" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/b1d62a36-06b9-4a70-a46c-403ba0869442" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/f308e00e-e9d0-4fbd-bd39-48f6ffbca36c" style="width: 300px;"> | <img src="https://github.com/user-attachments/assets/5ddf3767-e3f7-4b62-a6ca-f82fa2153aaf" style="width: 300px;"> | 
+|:--------:|:--------:|:--------:|:--------:|
+|   **메인 화면**  |   **현재 날씨**  |  **오늘의 운세**  |   **로그인 화면**  |
+|   한 눈에 모든 기능을 제공  |   보행자에게 날씨를 제공함으로서 편리함 강화  |   사용자의 생년월일을 통해 운세 제공 |   카카오 소셜 로그인을 제공  |    
+
+</br>
+
+</div>
+
 
 ### 지도 페이지
 - 주변 보행자 신호등 정보 표시
 - 장소 검색 제공
 - 웨어러블 기기 연동
 <div margin: 10px>
-  <img src="https://github.com/user-attachments/assets/27f88c23-d9ce-4299-af4e-5da3d800650b" width="20%">
-  <img src="https://github.com/user-attachments/assets/ab57242c-fb50-4754-a209-fc20b93c8975" width="20%">
   <img src="https://github.com/user-attachments/assets/130f6497-90e6-4ef5-802f-b00179871371" width="10%">
 </div>
 
@@ -48,9 +99,7 @@
 - 목적지 길안내 제공
 - 웨어러블 기기 연동
 <div margin: 10px>
-  <img src="https://github.com/user-attachments/assets/7c2ace1f-88cf-4cf7-aab2-57aac93754df" width="20%">
-  <img src="https://github.com/user-attachments/assets/482aea7f-2f0c-47a6-8da9-92cc06314b93" width="20%">
-  <img src="https://github.com/user-attachments/assets/1a570796-09a3-49db-8c70-776c76462702" width="20%">
+ 
     <img src="https://github.com/user-attachments/assets/15e9406c-8ada-4b90-81e2-a159fe434d5a" width="10%">
         <img src="https://github.com/user-attachments/assets/4c830ac4-2482-49cc-aef4-728101c662c2" width="10%">
             <img src="https://github.com/user-attachments/assets/6158e134-5864-499f-97b1-58126e1286be" width="10%">
@@ -111,16 +160,6 @@
   <img src="https://github.com/user-attachments/assets/f154afc2-883e-4e36-aae2-5cc6033081db" width="20%">
   <img src="https://github.com/user-attachments/assets/91d419a6-13fe-4f42-8fd9-b345d75a3c1d" width="20%">
   <img src="https://github.com/user-attachments/assets/9f4cc153-da88-4861-aa21-375c00f85518" width="20%">
-</div>
-
-  
-### 워치 연동
-- `웨어러블` 연결
-- 이메일과 모바일에서 제공하는 `인증번호` 입력시 연동
-<div margin: 10px>
-  <img src="https://github.com/user-attachments/assets/40794819-58d4-42e2-a3dd-6ac40aac3a52" width="20%"/>
-  <img src="https://github.com/user-attachments/assets/dc3edb0f-9d09-4dc2-91de-90cb26fc530e" width="10%"/>
-  <img src="https://github.com/user-attachments/assets/1a610dd0-2afb-445c-9ac2-916fe20828ee" width="10%"/>
 </div>
 
 <br/>   
