@@ -114,7 +114,7 @@
 
 
 
-## ⌚ WearOS 모바일 연동 </br>  
+## WearOS 모바일 연동⌚ </br>  
 - `웨어러블` 연결
 - 이메일과 모바일에서 제공하는 `인증번호` 입력시 연동
 
@@ -125,7 +125,7 @@
 
 </br>  
 
-## ⌚ WearOS 메인 </br>
+## WearOS 메인⌚ </br>
 - 자주가는 목적지, 주변신호등 지도, SST 목적지 검색, TTS 길안내 제공
 - 워치 연결해제 기능
 
@@ -135,7 +135,7 @@
 
 </br>  
 
-## ⌚ WearOS 음성검색 </br>
+## WearOS 음성검색🗣 </br>
 - speech to text 기능을 사용한 목적지 음성검색 제공
 
 |  <img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/워치음성인식-1.png" width="150px"/> | <img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/워치음성인식-2.png" width="150px"/> |   <img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/워치음성인식-3.png" width="150px"/> |
@@ -144,7 +144,7 @@
 
 </br>  
 
-## ⌚ WearOS 길안내 </br>  
+## WearOS 길안내🚶‍♂️ </br>  
 - text to speech 기능을 사용한 길안내 제공
 - GPS에 따른 길안내 네비게이션 제공
 - 모바일 어플과 실시간 연동
@@ -155,7 +155,7 @@
 
 </br>  
 
-## ⌚ WearOS 주변 신호등 </br>   
+## WearOS 주변 신호등🗺 </br>   
 - 현재 위치 주변의 신호등 정보 제공
 
 |  <img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/워치지도.png" width="150px"/> |
@@ -164,7 +164,7 @@
 
 </br>  
 
-## ⌚ WearOS 자주가는 목적지 </br>  
+## WearOS 자주가는 목적지🚩 </br>  
 - 모바일 어플에 등록된 자주가는 목적지 제공
 
 |  <img src="https://raw.githubusercontent.com/readygreen/readygreen/master/img/워치북마크.png" width="150px"/> |
